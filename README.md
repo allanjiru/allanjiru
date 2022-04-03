@@ -3,10 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allanjiru&label=Profile%20views&color=0e75b6&style=flat" alt="allanjiru" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanjiru" alt="allanjiru" /></a> </p>
-
 - 🔭 I’m currently working on **Real estate app**
 
 - 🌱 I’m currently learning **Kotlin**
