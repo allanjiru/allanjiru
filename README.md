@@ -1,4 +1,3 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEhYM0hJd1RsQjFFQnMwZGdkMXdIem1iZ3VPd3xBQ3Jtc0trdFBLdkNoa3BpenR4Nk5FY3ZvVTlkeVQ5eERWR2czTnp5T09KVXFvUTNaVXpZX0U4bG12ek1xM0pPQ3EtelJtYl96c0NHTWdjX2RVd3BSYWh4dDJKRm1icVJMOWJQWnhCMjdpS2kxUUptRlUzYTdlbw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Allan Njiru</h1>
 <h3 align="center">A passionate web and mobile developer from Kenya</h3>
 
@@ -8,11 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanjiru" alt="allanjiru" /></a> </p>
 
+- 🔭 I’m currently working on **Real estate app**
+
+- 🌱 I’m currently learning **Kotlin**
+
 - 💬 Ask me about **Laravel, Vue Js, Node Js, Flutter, Java, Javascript and Kotlin**
 
 - 📫 How to reach me **allanjiru@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think love my job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
