@@ -1,3 +1,5 @@
+![Design and Development](https://res.cloudinary.com/dei88c8xf/image/upload/v1649019143/github/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Allan Njiru</h1>
 <h3 align="center">A passionate web and mobile developer from Kenya</h3>
 
