@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **allanjiru@gmail.com**
 
-- ⚡ Fun fact **I think love my job**
+- ⚡ Fun fact **I love my job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
