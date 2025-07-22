@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
-- 🔭 I’m currently working on **Real estate app**
+- 🔭 I’m currently working on **Ebingwa**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Laravel, Vue Js, Node Js, Flutter, Java, Javascript and Kotlin**
+- 💬 Ask me about **Swift, Laravel and Vue Js**
 
 - 📫 How to reach me **allanjiru@gmail.com**
 
