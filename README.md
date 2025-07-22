@@ -1,4 +1,4 @@
-![Design and Development](https://res.cloudinary.com/dei88c8xf/image/upload/v1649019143/github/2000_600px.gif)
+![Design and Development](https://developer.apple.com/news/images/og/swift-og.png)
 
 <h1 align="center">Hi 👋, I'm Allan Njiru</h1>
 <h3 align="center">🚀 Web & Mobile Developer | Passionate about creating impactful digital experiences</h3>
