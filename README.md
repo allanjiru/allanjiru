@@ -33,11 +33,10 @@
 | Category           | Tools                                    |
 | ------------------ | ---------------------------------------- |
 | **Frontend**       | HTML, CSS, JavaScript, Vue.js, Bootstrap |
-| **Backend**        | PHP, Laravel, Node.js, Express           |
-| **Mobile**         | Flutter, Swift, Kotlin, Android          |
+| **Backend**        | PHP, Laravel                             |
+| **Mobile**         | Flutter, Swift                           |
 | **Database**       | MySQL, MongoDB, MariaDB, SQLite          |
 | **Cloud & DevOps** | Heroku, Azure, GCP, Nginx                |
-| **UI/UX Design**   | Figma, Adobe XD                          |
 
 ---
 
